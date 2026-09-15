@@ -215,7 +215,7 @@ O notebook realiza o carregamento do dataset MNIST durante a execução. O tempo
 
 Link para o vídeo no Google Drive:
 
-**Inserir link após o upload do vídeo.**
+[Link do vídeo no Google Drive](https://drive.google.com/drive/folders/1oPZfFas8ZKg8X6KjENbVhinCdiILVrGU?usp=drive_link)
 
 ## Autoria
 
